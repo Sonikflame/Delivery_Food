@@ -1,4 +1,4 @@
-# Доставка еды «Delivery Food» на JS - Учебный проект
+# Доставка еды "Delivery Food" на JS - Учебный проект
 
 Учебный проект доступен по адресу [https://sonikflame.github.io/delivery-food-js/](https://sonikflame.github.io/delivery-food-js/).
 
